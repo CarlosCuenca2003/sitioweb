@@ -1,0 +1,28 @@
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 0;
+}
+h1{
+    font-size: 48px;
+    color: #ff0000;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 24px;
+    color: #000;
+}
+.header{
+    height: 100vh;
+    background-image: linear-gradient(to top, rgba(251, 194, 235, 0.486) 0%, hsla(218, 68%, 79%, 0.514) 100%), url(../img/ferrari_pole.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

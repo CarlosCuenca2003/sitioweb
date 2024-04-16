@@ -1,0 +1,13 @@
+.contenedor-header{
+    height: 100vh;
+    background-image: linear-gradient(to top, rgba(251, 194, 235, 0.486) 0%, hsla(218, 68%, 79%, 0.514) 100%), url(../img/ferrari\ f1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.contenedor-img>img{
+        font-size: 30px;
+        width: 275px;
+        height: 183px;
+        margin-bottom: 25px;
+}
